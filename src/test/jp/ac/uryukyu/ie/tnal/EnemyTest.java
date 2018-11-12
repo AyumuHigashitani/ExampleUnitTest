@@ -11,7 +11,6 @@ class EnemyTest {
 
         int heroHP = 10;
 
-        //ヒーローとエネミーの作成
         Hero hero = new Hero("テスト勇者", heroHP, 5);
         Enemy enemy = new Enemy("テストスライム", 6, 3);
 
